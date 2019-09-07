@@ -20,7 +20,7 @@ description: Website from IoT Kiel Community
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutme"
+  About Us: "aboutus"
   Resources:
     - Senioren-Lernen-Online: "https://senioren-lernen-online.de/"
     - Nucleon e.V.: "https://nucleon-ev.eu/"
