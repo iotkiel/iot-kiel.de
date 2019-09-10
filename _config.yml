@@ -22,11 +22,15 @@ description: Website from IoT Kiel Community
 navbar-links:
   About Us: "aboutus"
   Contact: "contact"
-  Resources:
+  Downloads: "downloads"
+  Partner:
     - Senioren-Lernen-Online: "https://senioren-lernen-online.de/"
     - Nucleon e.V.: "https://nucleon-ev.eu/"
     - IoT User Gruppe DE: "https://iot-usergroup.de/"
     - Toppoint e.V.: "https://toppoint.de/"
+    - Stadtwerke Kiel AG: "https://stadtwerke-kiel.de"
+    - ADDIX Internet Services GmbH: "https://addix.net"
+    - DB0IL: "https://db0il.de"
   TTN Kiel Community: "https://www.thethingsnetwork.org/community/kiel/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
