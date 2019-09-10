@@ -13,4 +13,4 @@ Hier werden unsere Downloads und Vorträge zum Download angeboten:
 
 
 [1]:{{ site.url }}/downloads/2018-11-LoRaWanVortrag-WebmontagKiel.pdf
-[2]:https://youtu.be/hFjOiivu5bs
+[2]:https://youtu.be/hFjOiivu5bs?t=1186
