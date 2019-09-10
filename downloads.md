@@ -7,7 +7,7 @@ bigimg: /img/BlickUeberKielLES.jpg
 
 Hier werden unsere Downloads und Vorträge zum Download angeboten:
 
-2018-11 - Webmontag Kiel F. Horst - LoRaWAN - große Reichweite für kleine Daten [Download][1][Stream][2]
+2018-11 - Webmontag Kiel F. Horst - LoRaWAN - große Reichweite für kleine Daten [Download][1] [Stream][2]
 
 
 
