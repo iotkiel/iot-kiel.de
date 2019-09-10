@@ -16,3 +16,5 @@ Test "https://iot-kiel.de/test.pdf"
 
 
 you can [get the PDF]({{ site.url }}_downloads/2018-11-LoRaWanVortrag-WebmontagKiel.pdf) directly.
+
+"https://github.com/iotkiel/iot-kiel.de/blob/master/_downloads/2018-11-LoRaWanVortrag-WebmontagKiel.pdf"
