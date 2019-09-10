@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 subtitle: Wie du uns erreichst
-bigimg: /img/slidercontactn.jpg
+bigimg: /img/slidercontactn2.jpg
 ---
 
 Du möchtest uns erreichen? Gar kein Problem! 
