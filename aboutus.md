@@ -2,6 +2,7 @@
 layout: page
 title: About us
 subtitle: Wer wir eigentlich sind
+bigimg: /img/BlickUeberKielLES.jpg
 ---
 
 Hi, wir sind eine bunte Gruppe aus Menschen der verschiedensten Alters, Arbeits und Interessengebiete die alle zusammen Interesse an dem Internet der Dinge mitbringen. Irgendwann im Jahre 2018 haben wir dann angefangen mit einer kleinen Gruppe regelmäßig Treffen zu gestalten um einen Austausch zu erzeugen. Mittlerweile konnten wir einige unserer Projekte erfolgreich umsetzten und haben einige Partner in der Wirtschaft und aus der Bildung/Forschung mit in unserer Gruppe.
