@@ -4,7 +4,9 @@ title: Contact
 subtitle: Wie du uns erreichst
 ---
 
-Du möchtest uns erreichen? Gar kein Problem! Am besten kommst du zu unserem regelmäßigen Treffen am:
+Du möchtest uns erreichen? Gar kein Problem! 
+![contactus](https://github.com/iotkiel/iot-kiel.de/blob/master/img/ContactUsCOPYFHsmall.jpg){:class="img-responsive"}{:height="300px" width="400px"}
+Am besten kommst du zu unserem regelmäßigen Treffen am:
 
 1. Donnerstag des Monat um 18 Uhr. In den Räumen des Toppoint e.V., Fraunhoferstr. 2-4, 24118 Kiel (https://toppoint.de)
 
