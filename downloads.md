@@ -12,9 +12,9 @@ Test "https://iot-kiel.de/test.pdf"
 
 2018-11 - Webmontag Kiel - Fabian Horst - LoRaWAN - große Reichweite für kleine Daten [Download][1]
 
-[1]:{{ site.url }}/_downloads/2018-11-LoRaWanVortrag-WebmontagKiel.pdf
+[1]:{{ site.url }}/downloads/2018-11-LoRaWanVortrag-WebmontagKiel.pdf
 
 
-you can [get the PDF]({{ site.url }}/_downloads/2018-11-LoRaWanVortrag-WebmontagKiel.pdf) directly.
+you can [get the PDF]({{ site.url }}/downloads/2018-11-LoRaWanVortrag-WebmontagKiel.pdf) directly.
 
 "https://iot-kiel.de/downloads/2018-11-LoRaWanVortrag-WebmontagKiel.pdf"
