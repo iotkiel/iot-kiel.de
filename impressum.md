@@ -7,15 +7,24 @@ bigimg: /img/slidercontact.jpg
 
 Du möchtest uns erreichen? Gar kein Problem, schau einfach auf die Seite Contact!
 
+
 Administrativer Ansprechpartner:
 
+
 Fabian Horst
+
 c/o NordLab e.V.
+
 St.Jürgen-Str. 95
+
 24943 Flensburg
 
+
+
 Fotoquellen:
+
 Fabian Horst, direkte Lizenz für iot-kiel.de
+
 
 
 
