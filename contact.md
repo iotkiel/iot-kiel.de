@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 subtitle: Wie du uns erreichst
+bigimg: /img/ContactUsCOPYFHsmall.jpg
 ---
 
 Du möchtest uns erreichen? Gar kein Problem! 
