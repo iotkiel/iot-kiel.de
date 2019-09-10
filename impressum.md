@@ -2,7 +2,7 @@
 layout: page
 title: Impressum & Datenschutz
 subtitle: Hier steht alles wichtige Rechtliche
-bigimg: /img/slidercontact.jpg
+bigimg: /img/slidercontactn.jpg
 ---
 
 Du möchtest uns erreichen? Gar kein Problem, schau einfach auf die Seite Contact!
