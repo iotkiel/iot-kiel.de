@@ -7,7 +7,7 @@ bigimg: /img/BlickUeberKielLES.jpg
 
 Hier werden unsere Downloads und Vorträge zum Download angeboten:
 
-2019-09 - Digitale Woche Kiel M. Goritz - große Reichweite für kleine Daten [Download][3] [Stream folgt noch][4]
+2019-09 - Digitale Woche Kiel M. Goritz,U. Krope - große Reichweite für kleine Daten & SeniorenLernenOnline [Download][3] [Stream folgt noch][4]
 
 2018-11 - Webmontag Kiel F. Horst - LoRaWAN - große Reichweite für kleine Daten [Download][1] [Stream][2]
 
