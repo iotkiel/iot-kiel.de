@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Downloads
-subtitle: Hier findet Ihr Dateien und Vortäge von uns
+subtitle: Hier findet Ihr Dateien und Voträge von uns
 bigimg: /img/BlickUeberKielLES.jpg
 ---
 
