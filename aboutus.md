@@ -15,5 +15,6 @@ Hier einfach mal ein paar erfolgreiche Projekte:
 - Es gibt in Kiel einen Imker der mithilfe von IoT seine Bienen Monitoren kann
 - Es gibt die ersten Parksensoren an der Kiellinie
 - Einige Feinstaubsensoren in der Stadt sind dank dem TTN noch Autarker aufgestellt. (https://luftdaten.info/)
+- YT-Kanal aus Kiel mit LoRaWAN Inhalten (https://www.youtube.com/channel/UCk-ryaaFprs21QxCKZRjXkg)
 
-Du möchtest mehr Wissen? Lern uns gerne auf einem unseren Trefenn kennen und frage uns oder lass dir unsere Projekte vorführen. 
+Du möchtest mehr Wissen? Lern uns gerne auf einem unseren Treffen kennen und frage uns oder lass dir unsere Projekte vorführen. 
