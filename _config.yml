@@ -20,6 +20,7 @@ description: Website from IoT Kiel Community
 
 # List of links in the navigation bar
 navbar-links:
+  News: "news"
   About Us: "aboutus"
   Contact: "contact"
   Downloads: "downloads"
