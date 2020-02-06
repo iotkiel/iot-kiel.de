@@ -20,3 +20,4 @@ wir haben uns am 06.02.2020 in den Räumen des Toppoint e.V. getroffen und über
 Ankündigungen:
 * Nächstes Treffen am 06.03.2020 18-20 Uhr in den Räumen des Toppoint e.V.
 * Women Barcamp: [https://www.women-barcamp.de](https://www.women-barcamp.de)
+* Am 19. März 2020 findet um 17:00 Uhr ein offener Workshop „Smart Region Eutin” statt. Link oben.
