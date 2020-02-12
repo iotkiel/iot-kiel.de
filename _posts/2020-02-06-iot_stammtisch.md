@@ -18,6 +18,6 @@ wir haben uns am 06.02.2020 in den Räumen des Toppoint e.V. getroffen und über
 [http://www.vg-eutin-suesel.de/Stadt-Eutin/Quicknavigation/Startseite/Smart-Region-Lab-Eutin.php?object=tx,3152.5&ModID=7&FID=3152.640.1](http://www.vg-eutin-suesel.de/Stadt-Eutin/Quicknavigation/Startseite/Smart-Region-Lab-Eutin.php?object=tx,3152.5&ModID=7&FID=3152.640.1),  [https://www.ardmediathek.de/ard/player/Y3JpZDovL25kci5kZS81OWI5ZjRlZC05OWNhLTQ4ZGItOGU1OC0wODYxMTcxNjkwYTY/digitalisierung-eutin-will-smart-city-werden](https://www.ardmediathek.de/ard/player/Y3JpZDovL25kci5kZS81OWI5ZjRlZC05OWNhLTQ4ZGItOGU1OC0wODYxMTcxNjkwYTY/digitalisierung-eutin-will-smart-city-werden)
 
 Ankündigungen:
-* Nächstes Treffen am 06.03.2020 18-20 Uhr in den Räumen des Toppoint e.V.
+* Nächstes Treffen am 05.03.2020 18-20 Uhr in den Räumen des Toppoint e.V.
 * Women Barcamp: [https://www.women-barcamp.de](https://www.women-barcamp.de)
 * Am 19. März 2020 findet um 17:00 Uhr ein offener Workshop „Smart Region Eutin” statt. Link oben.
