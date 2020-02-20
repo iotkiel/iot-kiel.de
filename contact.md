@@ -12,10 +12,9 @@ Am besten kommst du zu unserem regelmäßigen Treffen am:
 
 Oder via:
 
-Twitter: [https://twitter.com/TTN_Kiel](@ttn_kiel)
+Twitter: [@ttn_kiel](https://twitter.com/TTN_Kiel)
 
-Slack: [http://bit.ly/joiniotkielonslack](http://bit.ly/joiniotkielonslack)
-Slack: [http://bit.ly/joiniotkieldiscussions](http://bit.ly/joiniotkieldiscussions)
+Slack: [http://bit.ly/joiniotkielonslack](http://bit.ly/joiniotkielonslack) [http://bit.ly/joiniotkieldiscussions](http://bit.ly/joiniotkieldiscussions)
 
 Mail: iotkiel.community (<a>) gmail.com
   
