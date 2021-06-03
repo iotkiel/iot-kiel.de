@@ -22,6 +22,7 @@ description: Website from IoT Kiel Community
 navbar-links:
   About Us: "aboutus"
   Contact: "contact"
+  Standorte: "gateway_standorte"
   Downloads: "downloads"
   Partner:
     - Senioren-Lernen-Online: "https://senioren-lernen-online.de/"
