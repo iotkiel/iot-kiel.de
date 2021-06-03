@@ -13,11 +13,11 @@ Administrativer Ansprechpartner:
 
 Fabian Horst
 
-c/o NordLab e.V.
+c/o toppoint e.V. - wlanfr3ak
 
-St.Jürgen-Str. 95
+Holzkoppelweg 20
 
-24943 Flensburg
+24118 Kiel
 
 
 
