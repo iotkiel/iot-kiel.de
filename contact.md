@@ -10,6 +10,8 @@ Am besten kommst du zu unserem regelmäßigen Treffen am:
 
 1. Donnerstag des Monat um 18 Uhr. In den Räumen des Toppoint e.V., Fraunhoferstr. 2-4, 24118 Kiel [https://toppoint.de](https://toppoint.de)
 
+ACHTUNG: Aus bekannten Gründen vorerst nur Online unter: ---> [https://meet.ffmuc.net/iotKiel](https://meet.ffmuc.net/iotKiel)
+
 Oder via:
 
 Twitter: [@ttn_kiel](https://twitter.com/TTN_Kiel)
