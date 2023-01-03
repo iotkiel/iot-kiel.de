@@ -8,9 +8,9 @@ bigimg: /img/slidercontact.jpg
 Du möchtest uns erreichen? Gar kein Problem! 
 Am besten kommst du zu unserem regelmäßigen Treffen am:
 
-1. Donnerstag des Monat um 18 Uhr. In den Räumen des Toppoint e.V., Holzkoppelweg 20, 24118 Kiel [https://toppoint.de](https://toppoint.de)
+1. Dienstag des Monat um 18 Uhr. In den Räumen des Toppoint e.V., Holzkoppelweg 20, 24118 Kiel [https://toppoint.de](https://toppoint.de)
 
-ACHTUNG: Aus bekannten Gründen vorerst nur Online unter: ---> [https://meet.ffmuc.net/iotKiel](https://meet.ffmuc.net/iotKiel)
+ACHTUNG: Aus bekannten Gründen vorerst nur Online(bzw. Hybrid) unter: ---> [https://meet.ffmuc.net/iotKiel](https://meet.ffmuc.net/iotKiel)
 
 Oder via:
 
